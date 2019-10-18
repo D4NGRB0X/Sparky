@@ -1,0 +1,1 @@
+web: gunicorn iso_sparky_crm.wsgi
